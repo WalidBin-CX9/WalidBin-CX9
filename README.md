@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on high-performance backend systems and automation scripts.<br><br>👯 I’m looking to collaborate on open-source C++ libraries or innovative Python web frameworks.<br><br>🤝 I’m looking for help with mastering advanced memory management in C++ and .NET design patterns.<br><br>🌱 I’m currently learning Machine Learning integration with Python and the latest C++23 standards [5].<br><br>💬 Ask me about Python scripting, C# application architecture, or system optimization.<br><br>⚡ Fun fact I once spent three hours debugging a "bug" that turned out to be a physical piece of dust on my monitor.
+🔭 I’m currently working on high-performance backend systems and automation scripts.<br><br>👯 I’m looking to collaborate on open-source C++ libraries or innovative Python web frameworks.<br><br>🤝 I’m looking for help with mastering advanced memory management in C++ and .NET design patterns.<br><br>🌱 I’m currently learning Machine Learning integration with Python and the latest C++23 standards .<br><br>💬 Ask me about Python scripting, C# application architecture, or system optimization.<br><br>⚡ Fun fact I once spent three hours debugging a "bug" that turned out to be a physical piece of dust on my monitor.
 
 
 ## 🌐 Socials:
